@@ -1,0 +1,31 @@
+.container {
+  padding-top: 100px;
+}
+.bank-title {
+  text-transform: uppercase;
+}
+.submit-area {
+  margin-top: 50px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+  padding: 40px;
+}
+.tranjsaon-area {
+  display: none;
+}
+.status {
+  margin: 0px 20px;
+  border-radius: 20px;
+
+  padding: 20px;
+  color: #fff;
+}
+.Deposit {
+  background: green;
+}
+.Withdrow {
+  background: yellow;
+}
+.Balance {
+  background: blue;
+}
